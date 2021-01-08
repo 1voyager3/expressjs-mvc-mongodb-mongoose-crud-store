@@ -1,3 +1,3 @@
 # @desc 
 
-Store with CRUD functionality on Expressjs, MongoDB, Mongoose using MVC software design pattern
+Store with CRUD functionality on Expressjs, MongoDB, Mongoose using MC software design pattern
